@@ -1,9 +1,0 @@
-version: 1
-upstream_repo: https://github.com/bytedance/deer-flow
-upstream_branch: main
-upstream_commit: 64e0f5329a2a5f17a9b6cb13c6b6b116ecbbe24f
-upstream_commit_date_utc: 2026-03-31T01:42:33Z
-learning_docs_started_at_utc: 2026-04-01T00:00:00Z
-learning_docs_version: v1
-learning_scope: Phase 0-9
-notes: upstream remote configured; fetch blocked in current environment, so baseline currently uses local origin/main; only added learning docs, no source code changes
